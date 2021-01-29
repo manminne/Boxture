@@ -68,12 +68,17 @@
           <h2 data-aos="fade-up" data-aos-delay="400">We are rethinking last-mile delivery </h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
-              <form action="/forms/signup.php">
-                <input class="input_mail d-inline-flex align-items-center justify-content-center align-self-center" type="email" name="email" placeholder="Your E-Mail..">
-                <a type="submit" href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+              <form action="/forms/signup.php" method="post" class="php-email-form">
+                <input style="box-shadow:none; border-color:#4154f1" class="form-control input_mail d-inline-flex align-items-center justify-content-center align-self-center" type="email" name="email" placeholder="Your E-Mail.." required>
+                <button style="box-shadow:none; border-color:#4154f1;outline:none" type="submit" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                   <span>Sign up</span>
                   <i class="bi bi-arrow-right"></i>
-                </a>
+                </button>
+                <div class="col-md-12 text-center">
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your E-Mail has been added. Thank you!</div>
+
+                </div>
 
               </form>
 
