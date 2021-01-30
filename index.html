@@ -79,8 +79,7 @@
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
               <form action="https://www.formbackend.com/f/85e361397942251d" method="post">
-                <input style="border: 1px solid #4154f1" class="form-control input_mail d-inline-flex align-items-center justify-content-center align-self-center" type="email" name="email" placeholder="Your E-Mail.." required>
-                <input style="display: none" type="text" name="Sign-up">
+                <input style="border: 1px solid #4154f1" aria-label="signup-mail" class="form-control input_mail d-inline-flex align-items-center justify-content-center align-self-center" type="email" name="email" placeholder="Your E-Mail.." required>
                 <button style="border-color:transparent;outline:none" type="submit" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                   <span>Sign up</span>
                   <i class="bi bi-arrow-right"></i>
@@ -821,20 +820,20 @@
               <div class="row gy-4">
 
                 <div class="col-md-6">
-                  <input id="name_input" type="text" name="name" class="form-control" placeholder="Your Name" required>
+                  <input id="name_input" aria-label="contact-name" type="text" name="name" class="form-control" placeholder="Your Name" required>
                   <label style="display: none" for="name_input">Name</label>
                 </div>
 
                 <div class="col-md-6 ">
-                  <input type="email" class="form-control" name="email" placeholder="Your Email" required>
+                  <input type="email" aria-label="contact-mail" class="form-control" name="email" placeholder="Your Email" required>
                 </div>
 
                 <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Subject" required>
+                  <input type="text" aria-label="contact-subject" class="form-control" name="subject" placeholder="Subject" required>
                 </div>
 
                 <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                  <textarea class="form-control" aria-label="contact-message" name="message" rows="6" placeholder="Message" required></textarea>
                 </div>
                 <div class="col-md-12">
                   <button type="submit" style="background-color:#4154f1; border:1px solid #4154f1;color:white;width:100%;min-height: 35px;">Send Message</button>
