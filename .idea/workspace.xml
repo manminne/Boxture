@@ -2,7 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="324a23cd-ecb3-4166-b097-b0a33cf998c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-author.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-inside-post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-recent-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-recent-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-recent-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-recent-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/blog-recent-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/comments-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/comments-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/comments-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/comments-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/comments-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/blog/comments-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/clients/client-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/team/team-4.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +78,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/forms" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lukas\WebstormProjects\Boxture\assets\img" />
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
@@ -79,7 +117,7 @@
       <workItem from="1611921779098" duration="50000" />
       <workItem from="1611921841385" duration="17001000" />
       <workItem from="1611941626207" duration="9251000" />
-      <workItem from="1611998350955" duration="11662000" />
+      <workItem from="1611998350955" duration="12152000" />
     </task>
     <task id="LOCAL-00001" summary="sec commit">
       <created>1611936999092</created>
@@ -214,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612020724255</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="sec commit">
+      <created>1612021680941</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612021680941</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
