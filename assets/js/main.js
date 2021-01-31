@@ -255,3 +255,8 @@
   });
 
 })();
+
+document.getElementById("req_box").addEventListener("click", function() {
+  document.getElementById("sign-up-mail").classList.add("pulse");
+  setTimeout(function(){ document.getElementById("sign-up-mail").classList.remove("pulse") }, 1000);
+});
