@@ -56,7 +56,7 @@
       <command value="index.html" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index-en.html">
     <configuration name="index-en.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Boxture/index-en.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
